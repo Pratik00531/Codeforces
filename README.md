@@ -6,7 +6,9 @@ Codeforces, LeetCode, CodeChef &amp; GeeksforGeeks solutions, organized cleanly 
 <!-- cf-sync -->
 # Competitive Programming Solutions
 
-**Total solved: 8**
+Synced automatically by SolveBase.
+
+**Total solved: 9**
 
 ## Codeforces
 
@@ -24,11 +26,11 @@ Solutions by [Pratikkpatelll](https://codeforces.com/profile/Pratikkpatelll), or
 
 Solutions organized by primary topic folder.
 
-**Solved: 3**
+**Solved: 4**
 
 | Topic | Solved |
 | --- | --- |
-| [binary-search](./leetcode/binary-search) | 1 |
+| [binary-search](./leetcode/binary-search) | 2 |
 | [segment-tree](./leetcode/segment-tree) | 1 |
 | [two-pointers](./leetcode/two-pointers) | 1 |
 
