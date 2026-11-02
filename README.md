@@ -8,45 +8,42 @@ Codeforces, LeetCode, CodeChef &amp; GeeksforGeeks solutions, organized cleanly 
 
 Synced automatically by SolveBase.
 
-**Total solved: 24**
+**Total solved: 8**
 
 ## Codeforces
 
 Solutions by [Pratikkpatelll](https://codeforces.com/profile/Pratikkpatelll), organized by difficulty rating.
 
-**Solved: 9**
+**Solved: 3**
 
 | Difficulty | Solved |
 | --- | --- |
-| [800](./codeforces/800) | 9 |
+| [800](./codeforces/800) | 2 |
+| [900](./codeforces/900) | 1 |
 
 
 ## LeetCode
 
 Solutions organized by primary topic folder.
 
-**Solved: 9**
+**Solved: 3**
 
 | Topic | Solved |
 | --- | --- |
-| [array](./leetcode/array) | 1 |
-| [binary-search](./leetcode/binary-search) | 2 |
-| [hash-table](./leetcode/hash-table) | 1 |
-| [linked-list](./leetcode/linked-list) | 1 |
+| [binary-search](./leetcode/binary-search) | 1 |
 | [segment-tree](./leetcode/segment-tree) | 1 |
-| [trie](./leetcode/trie) | 1 |
-| [two-pointers](./leetcode/two-pointers) | 2 |
+| [two-pointers](./leetcode/two-pointers) | 1 |
 
 
 ## CSES
 
 Solutions from the CSES Problem Set, organized by section.
 
-**Solved: 4**
+**Solved: 0**
 
 | Section | Solved |
 | --- | --- |
-| [introductory-problems](./cses/introductory-problems) | 4 |
+| — | 0 |
 
 
 ## CodeChef
@@ -71,5 +68,5 @@ Solutions organized by difficulty level.
 | — | 0 |
 
 
-_Last updated: 2026-11-01_
+_Last updated: 2026-11-02_
 <!-- /cf-sync -->
